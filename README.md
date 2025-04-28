@@ -15,6 +15,7 @@ Cloud Deployment: Deployed on IBM Cloud Engine via Docker containers.
 Continuous Integration and Continuous Deployment: Automated GitHub Actions used for testing and deployment.
 
 _Core Features_
+
 Display home page, dealerships (all, by state, by ID), About Me, and Contact Us pages
 
 User authentication for review submissions.

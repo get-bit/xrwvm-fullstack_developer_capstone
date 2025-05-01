@@ -10,7 +10,7 @@ import logging
 import json
 from .populate import initiate
 from .models import CarModel  # ,CarMake
-from .restapis import get_request, analyze_review_sentiments, post_review, 
+from .restapis import get_request, analyze_review_sentiments, post_review
 from .restapis import searchcars_request
 
 # Get an instance of a logger
